@@ -1,0 +1,96 @@
+<!DOCTYPE HTML>
+
+
+<html>
+    
+    <head>
+        <title>Learning About Web Design in CG-214, from Shaun saxsani</title>
+    </head>
+    
+    <body>
+        
+    2nd WEB PAGE by Masami Morimoto
+<!--       Centered my title with center tag-->
+        <h1><center>THIS WEB SITE IS ABOUT WHAT WE LEARNED FROM THE<i> CG-214,WEB PAGE CONSTRUCTION BY <strong>SHAUN AXANI</strong></i></center>
+    </h1>
+        
+        
+        <p>HTML uses tags to identify page content.
+When you write a paragrah, Start Tag, Atribute, Content, and End Tag. when you finish, you always have to end slush mark,/ before the letter and close. </p> 
+
+         <h2>HERE ARE STRUCTURE TAGS</h2>
+       
+         <li>doctype</li>
+         <li>HTML </li>
+         <li>head</li>
+         <li>body</li>
+         <li>div</li>
+        
+         <p>It is a lot of fun to make your own web site. Here is very important to always same as<em> ...index.html</em></p> 
+
+        <p>Under html, you write all the necessary information. </p>
+        
+        <p>head is information that other people don't see. Everything viewable on the page goes in the body. </p>
+        
+        <p> Under div, some information that will go somewhere.</p>
+        
+        <p> </p>
+            <li> <em>h</em> is for a heding. </li>
+            <li> <em>h1</em> is for a heding that a biggest, as number goes up the size of the letter will get smaller. </li>
+            <li><em>b</em> is for bold letter.</li>
+            <li> <em>i</em> is for aitalics. </li>
+            <li> <em>li</em> is for a blog. </li>
+            <li><em>ul</em>,<em>ol</em>and <em>li</em> are used for making lisits. </li>
+            <li> <em>ul</em> are unordered lists. </li>
+            <li> <em>ol</em> is for ordered lists(unmbered) </li>
+            <li> <em>li</em> is for an indiviual list tab</li>
+            <li> <em>br/</em> will go to a new line</li>
+             
+         <p> Here is the link you can learn more about hte basic HTML which Saun told me and it is very helpful! 
+             
+             Click here. </p>
+        <a href="https://www.lynda.com/HTML-tutorials/Basic-HTML-syntax/170427/196130-4.html">HTML</a>
+              
+        
+        <p> Here is more fun stuff!
+        
+       <h2> How to add links </h2>
+        
+      <p><em> a</em> is for a blog.</p>
+       I will add my music here, just in case if you want to hear. Please click here!
+        
+        <a href="https://youtu.be/5XH8CAtAeck">HTML Koto Masami and Violin, Yury Revich </a>
+        
+        
+        
+          <h2> How to add Images </h2>
+        
+        <p> And another fun stuff to add images.
+        The imag tag is for images, which can be on your local directory or on another webpage. </p>
+              
+        <p> An image on the local directory</p>
+              
+          <ul>
+              
+              <p> we can add img src="...." alt="..." and close. You can have images from jpg or pin,it is easy to put images out! </p>
+              
+              <p> <img src= "https://raw.githubusercontent.com/saxani/CG-214/master/week-2/techblog/images/ah-ha-moment.jpg" alt="WOW, GOT AN IDEA" /></p>
+
+             <p> <img src= "https://raw.githubusercontent.com/saxani/CG-214/master/week-2/techblog/images/learning.png
+              " alt="LERNING IS A FUN THING" /></p>
+
+    
+              <p> <img src= "https://raw.githubusercontent.com/saxani/CG-214/master/week-2/techblog/images/sadBanner.jpg
+              " alt="SMILE IS A GOOD THING" /></p>
+    
+ <nav>
+     
+        </nav>
+        
+        
+        
+ <h2>So much fun to learn all that in just a few weeks! Thank you, Shaun!</h2> <p> Masami</p> 
+              
+    </body>
+    
+</html>
