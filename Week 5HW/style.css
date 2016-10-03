@@ -1,0 +1,58 @@
+/* This is only for the main title */
+
+head{
+    
+    color:coral;
+}
+
+h1{
+    color:olivedrab;/*Want to try coral, maybe change later */ 
+    font-family: serif;
+}
+
+ h2{
+            
+            color:purple;
+    }
+
+        
+        h3{
+            
+            color:yellowgreen;
+    }
+
+
+ul{
+    color: orchid;
+}
+
+a{
+	color: coral;
+}
+
+
+li>a {
+    color:coral
+        
+        p a { 
+    color: darkahki;
+    }
+}
+
+/* I love pink and this is a comment */
+
+body{
+    
+    background:azure
+}
+
+p{
+    
+    font-family: cursive;
+    color:dimgrey
+   
+}
+
+funText{
+background: lightgreen;
+}
