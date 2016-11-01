@@ -1,0 +1,110 @@
+/* This is only for the main title */
+
+head{
+    
+/*    color:#6aa9e0;*/
+}
+
+
+#history1{
+    		width: 700px;
+    		background-color:  #e6f6d4;
+            margin: 30px auto  30px auto;
+            padding: 10px;
+            
+}
+
+#history2{
+    		width: 700px;
+    		background-color: #e6f6d4;
+            margin: 30px auto 30px auto;
+            padding: 10px;
+
+}
+#history3{
+    		width: 700px;
+    		background-color: #e6f6d4;
+            margin: 30px auto 30px auto;
+            padding: 10px;
+
+    		
+}
+#history4{
+    		width: 700px;
+    		background-color: #e6f6d4;
+            margin: 30px auto 30px auto;
+            padding: 10px;
+}
+#history5{
+    		width: 700px;
+    		background-color: #e6f6d4;
+            margin: 30px auto 30px auto;
+            padding: 10px;
+}
+}
+#history6{
+    		width: 700px;
+    		background-color: #e6f6d4;
+            margin: 30px auto 30px auto;
+            padding: 10px;
+}
+li{
+    
+    display: inline;
+    margin-right: 30px;
+    text-align: center;
+}
+
+h1{
+    color:#c26a99;/*I love coral*/ 
+    font-family: serif;
+}
+
+ h2{
+       
+    color:#3d66d5#a3d;/*I love coral*/ 
+    font-family: serif;
+}     
+/*
+            color:#3b2020;
+    }
+#e33f3f
+*/
+        
+        h3{
+            
+            color:#e43333;
+    }
+
+
+
+a{
+	color: coral;
+}
+
+
+li>a {
+    color:coral
+        
+        p a { 
+    color: darkahki;
+    }
+}
+
+/* I love pink and this is a comment */
+
+body{
+    
+    background:azure;
+}
+
+p{
+    
+    font-family:serif;
+/*    color:dimgrey*/
+   
+}
+
+funText{
+background: li #e6f6d4;
+}
